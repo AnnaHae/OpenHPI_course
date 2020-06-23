@@ -4,6 +4,7 @@ Melusine von Grenwald ist eine Kunsthändlerin, die in den 20er Jahren des 20.Ja
 
 ## Spezielle Chraktereigenschaften
 
+
 *ehrgeizig
 *witzig
 *starrköpfig
@@ -11,3 +12,4 @@ Melusine von Grenwald ist eine Kunsthändlerin, die in den 20er Jahren des 20.Ja
 
 Melusine von Grendwald sagt:
 > Das gibts doch nicht
+
