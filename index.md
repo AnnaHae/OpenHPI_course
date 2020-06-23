@@ -13,3 +13,4 @@ Melusine von Grenwald ist eine Kunsthändlerin, die in den 20er Jahren des 20.Ja
 Melusine von Grendwald sagt:
 > Das gibts doch nicht
 
+<img src="https://m.media-amazon.com/images/I/51F+GYL-+dL.jpg"/>
