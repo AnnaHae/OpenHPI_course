@@ -9,3 +9,5 @@ Melusine von Grenwald ist eine Kunsthändlerin, die in den 20er Jahren des 20.Ja
 * starrköpfig
 * gebildet
 
+Wie Melusine von Grenwald sagt
+> I’ve always been more interested in the future than in the past.
